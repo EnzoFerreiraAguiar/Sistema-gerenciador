@@ -59,7 +59,7 @@
 
 **02 -** Quando logado como Atendente, aparecerá a tela de início.
 
-![Tela de início do Atendente](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Sistema_Da_Loja/Atendente/Tela_De_In%C3%ADcio.PNG)
+![Tela de início do Atendente](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Atendente/Tela_De_Inicio.png)
 
 ##
 
