@@ -71,13 +71,13 @@
 
 **04 -** Aqui, pode ser feita a compra dos produtos.
 
-![Compra dos produtos](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Sistema_Da_Loja/Atendente/Compra_Do_Cliente.PNG)
+![Compra dos produtos](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Atendente/Compra_Do_Cliente.png)
 
 ##
 
 **05 -** E para concluir a compra, a realização do pagamento.
 
-![CPagamento](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Sistema_Da_Loja/Atendente/Pagamento.PNG)
+![Pagamento](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Sistema_Da_Loja/Atendente/Pagamento.PNG)
 
 
 
