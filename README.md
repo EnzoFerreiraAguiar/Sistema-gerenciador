@@ -44,7 +44,7 @@
 
 **04 -** Realização do gerenciamento de usuários.
 
-![Geração de usuários](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Sistema_Da_Loja/Administrador/Gerenciamento_De_Usu%C3%A1rios.PNG)
+![Gerenciamento de usuários](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Administrador/Gerenciamento_De_Usuarios.png)
 
 ##
 
