@@ -65,7 +65,7 @@
 
 **03 -** Pode também, visualizar os produtos com as informações de cada um.
 
-![Visualização de usuários](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Sistema_Da_Loja/Atendente/Visualizar_Produtos.PNG)
+![Visualização de produtos]()
 
 ##
 
