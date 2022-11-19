@@ -52,7 +52,7 @@
 
 **01 -** Quando for executado, será aberta a página de login.
 
-![Tela de Login](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Sistema_Da_Loja/Tela_De_Login.PNG)
+![Tela de Login](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Tela_De_Login.PNG)
 
 ##
 
