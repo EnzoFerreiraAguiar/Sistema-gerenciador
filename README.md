@@ -77,7 +77,7 @@
 
 **05 -** E para concluir a compra, a realização do pagamento.
 
-![Pagamento](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Sistema_Da_Loja/Atendente/Pagamento.PNG)
+![Pagamento](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Atendente/Pagamento.png)
 
 
 
