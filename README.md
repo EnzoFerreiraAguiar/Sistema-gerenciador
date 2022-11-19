@@ -38,7 +38,7 @@
 
 **03 -** Pode fazer a geração de relatório dos produtos.
 
-![Geração de relatórios](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Sistema_Da_Loja/Administrador/Relat%C3%B3rios.PNG)
+![Geração de relatórios](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Administrador/Relatorios.png)
 
 ##
 
