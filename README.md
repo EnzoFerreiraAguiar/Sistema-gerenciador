@@ -32,7 +32,7 @@
 
 **02 -** Aqui está a tela de início do Administrador.
 
-![Tela de início do Administrador](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Sistema_Da_Loja/Administrador/Tela_De_In%C3%ADcio.PNG)
+![Tela de início do Administrador](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Administrador/Tela_De_Inicio.png)
 
 ## 
 
