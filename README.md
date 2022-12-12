@@ -9,7 +9,7 @@
 
 - No processo de criação do sistema, foram usados conceitos de Programação Orientada a Objetos (POO) e interfaces gráficas desenvolvidas por meio do pacote javax.swing.
 
-- Possui três usuários, administradores, clientes e atendentes. 
+- Possui três usuários: Administrador, cliente e atendente. 
 
 ### Funcionalidades
   
