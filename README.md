@@ -28,19 +28,16 @@
 
 ![Tela de Login](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Tela_De_Login.PNG)
 
-##
 
 **02 -** Aqui está a tela de início do Administrador.
 
 ![Tela de início do Administrador](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Administrador/Tela_De_Inicio.png)
 
-## 
 
 **03 -** Pode fazer a geração de relatório dos produtos.
 
 ![Geração de relatórios](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Administrador/Relatorios.png)
 
-##
 
 **04 -** Realização do gerenciamento de usuários.
 
@@ -54,26 +51,21 @@
 
 ![Tela de Login](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Tela_De_Login.PNG)
 
-##
-
 
 **02 -** Quando logado como Atendente, aparecerá a tela de início.
 
 ![Tela de início do Atendente](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Atendente/Tela_De_Inicio.png)
 
-##
 
 **03 -** Pode também, visualizar os produtos com as informações de cada um.
 
 ![Visualização de produtos](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Atendente/Visualizar_Produtos.png)
 
-##
 
 **04 -** Aqui, pode ser feita a compra dos produtos.
 
 ![Compra dos produtos](https://github.com/EnzoFerreiraAguiar/Sistema-gerenciador/blob/master/Imagens_Das_Interfaces/Atendente/Compra_Do_Cliente.png)
 
-##
 
 **05 -** E para concluir a compra, a realização do pagamento.
 
