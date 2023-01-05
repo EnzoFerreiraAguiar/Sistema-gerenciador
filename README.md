@@ -18,7 +18,7 @@
   - Visualização dos produtos disponíveis por parte do Cliente.
   
   
-### Como usar
+## Como usar
 
 ##
 
