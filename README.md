@@ -13,8 +13,8 @@
 
 ### Funcionalidades
   
-  - Cadastro, remoção, visualização de usuários e geração de relatórios por parte do Administrador;
-  - Visualização dos produtos e efetuação das compras por parte do Atendente;
+  - Cadastro, remoção, visualização de usuários e geração de relatórios por parte do Administrador.
+  - Visualização dos produtos e efetuação das compras por parte do Atendente.
   - Visualização dos produtos disponíveis por parte do Cliente.
   
   
