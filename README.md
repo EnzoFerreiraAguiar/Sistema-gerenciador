@@ -1,5 +1,5 @@
 
-### A aplicação de gestão de uma loja esportiva feita em Java foi usada para a avaliação final do primeiro semestre do curso de Análise e Desenvolvimento de Sistemas.
+### A aplicação de gestão de uma loja esportiva feita em Java foi usada como avaliação final do primeiro semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 
 ##
